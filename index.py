@@ -13,7 +13,7 @@ def index():
 
 @app.route("/mis")
 def course():
-    return "<h1m>MIS工作:MIS工程師</h1>"
+    return "<h1m>MIS工程師</h1>"
 
 @app.route("/today")
 def today():
